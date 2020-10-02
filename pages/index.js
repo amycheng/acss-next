@@ -34,7 +34,7 @@ const ProductSection = () => {
 
 const Package = () => {
 return (
-  <div>
+  <div className="Ff(ss)">
     <img src="https://res.cloudinary.com/peloton-cycle/image/fetch/dpr_2.0,f_auto,q_auto:best,w_260/https://s3.amazonaws.com/peloton-ride-images/a94a8fe5ccb19ba61c4c0873d391e987982fbbd3/img_1530025103442.jpg" alt="" />
     <h2>Bike Basics</h2>
     <Price price="1895"/>
