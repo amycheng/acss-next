@@ -1,5 +1,5 @@
 module.exports = {
-    cssDest: './generatedAtoms.css',
+    cssDest: './public/css/generatedAtoms.css',
     configs: {
         classNames: []
     }
